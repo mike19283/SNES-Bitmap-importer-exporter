@@ -1,0 +1,130 @@
+BG PALETTES
+-----------
+399A14 - 399B12	mines
+399B1C - 399C1A	snow mountains
+399C1C - 399D1A	water corals
+399D1C - 399E1A	blue water corals
+399E1C - 399F1A	red water corals
+399F1C - 39A01A	foggy water corals
+39A01C - 39A11A	brown cave
+39A1DC - 39A2DA	jungle
+39A2DC - 39A3DA	mine shaft
+39A3DC - 39A4DA misty mines
+
+39AE65 - 39AF63	green cave
+39AF65 - 39B061	purple cave
+39B0A3 - 39B1A1	factory
+39B1A3 - 39B2A1	purple treetown
+39B2A3 - 39B3A1	brown treetown
+39B3A3 - 39B4A1	temple
+39B4A3 - 39B5A1	splash intro screen
+
+39B987 - 39BA81	Funky's Flights
+39BAC7 - 39BBC1	Candy's Save Point
+39BCA3 - 39BDA1	Cranky's Cabin
+
+39BE03 - 39C001	DK Island Map + object palettes
+	 39BF25	Donkey & Diddy Kong 2P
+	 39BFC5	Donkey & Diddy Kong 1P
+39C003 - 39C101	Kongo Jungle Map 2
+39C103 - 39C201	Kongo Jungle Map 1
+39C223 - 39C321	Gorilla Glacier 2
+39C323 - 39C421	Gorilla Glacier 1
+39C423 - 39C521	Monkey Mines Map 2
+39C523 - 39C621	Monkey Mines Map 1
+39C623 - 39C721	forest
+39C723 - 39C821	ice cave
+39C823 - 39CC82	ice cave gradient data
+
+39CC83 - 39CD81	Kremkrock Industries Inc. Map 2
+39CD63 - 39CE61	Kremkrock Industries Inc. Map 1
+39CE63 - 39CF41	boss lair
+39CF43 - 30D041	Vine Valley Map 2
+39D043 - 30D141	Vine Valley Map 1
+39D143 - 39D241	Chimp Caverns Map 2
+39D243 - 39D341	Chimp Caverns Map 1
+39D363 - 39D461	Gang-Plank Galleon
+39D563 - 39D661	select game
+39D683 - 39D781	Kong's Cabin
+
+OBJECT PALETTES
+---------------
+3C8226	dirt patch, bonus wall
+3C8262	DK Island seen from Gang-Plank Galleon
+3C829E	Cannonball
+3C82BA	Necky Boss nut
+3C82D8	Necky Boss 1
+3C82F6	Necky Boss 2
+3C8314	King K.Rool
+3C834E	arrow sign
+3C83AA	Gnawty Boss 2
+3C83C8	Boss Dumb Drum
+3C8404	Rambi, tire
+3C8422	Diddy Kong 1P
+3C8440	Diddy Kong 1P (dimmed back-up)
+3C845E	Diddy Kong 2P
+3C847C	Diddy Kong 2P (dimmed back-up)
+3C849A	Donkey Kong 1P
+3C84B8	Donkey Kong 1P (dimmed back-up)
+3C84D6	Donkey Kong 2P
+3C84F4	Donkey Kong 2P (dimmed back-up)
+3C8512	Kritter, green
+3C8530	Kritter, purple
+3C854E	Kritter, brown
+3C856C	Kritter, blue
+3C858A	Kritter, yellow
+3C85A8	Kritter, grey
+3C85C6	Klump
+3C85E4	Expresso
+3C8602	Slippa
+3C863E	Winky
+3C865C	Army, rope
+3C867A	mine cart
+3C869A	Squidge
+3C86D4	Necky
+3C86F2	bananas/KONG tokens/DK barrel logo
+3C870E	animal crate, moss-lined barrel
+3C872E	barrels (normal, cannons)
+3C876A	Klaptrap, green
+3C87A6	Klaptrap, purple
+3C881E	tire (dark), mincer
+3C885A	giant banana
+3C8878	red balloon
+3C8896	green balloon
+3C88B4	blue balloon
+3C88D2	cave platform
+3C894A	pink butterfly
+3C89A4	animal tokens
+3C89C2	Krusha, blue
+3C89E0	Krusha, grey
+3C8A1C	Gnawty + Gnawty boss
+3C8A3A	mine shaft platform
+3C8A58	Manky
+3C8AB2	Chomps
+3C8AD0	Chomps Jr.
+3C8AEE	Piranha
+3C8B2A	Croctopus, blue
+3C8B48	Croctopus, purple
+3C8B84	Enguarde
+3C8BA2	tank platform, green light
+3C8BC0	tank platform, orange light
+3C8BDE	tank platform, red light
+3C8C38	fuel
+3C8C92	Clam
+3C8D64	Rockkroc
+3C8D82	Zinger, yellow
+3C8DA0	Zinger, pink
+3C8DBE	Zinger, orange
+3C8DDC	Zinger, purple
+3C8DFA	Zinger, blue
+3C8E18	Zinger, green
+3C8EEA	blue rope
+3C8E54 Temple bonus wall
+3C8F08	ice cave bonus wall
+3C8F26	purple rope
+3C8F44	iron barrel, oil drum
+3C8F80	Squawks
+3C8FBC	Funky Kong
+3C8FDA	Funky Kong's surf board
+3C8FF8	Candy Kong
+3C9016	Cranky Kong

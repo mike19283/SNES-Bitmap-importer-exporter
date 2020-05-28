@@ -1,0 +1,9 @@
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\bin\Debug\SNES palette importer+exporter.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\bin\Debug\SNES palette importer+exporter.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\bin\Debug\SNES palette importer+exporter.pdb
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\obj\Debug\SNES_palette_importer_exporter.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\obj\Debug\SNES_palette_importer_exporter.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\obj\Debug\SNES palette importer+exporter.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\obj\Debug\SNES palette importer+exporter.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\obj\Debug\SNES palette importer+exporter.pdb
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\SNES palette importer+exporter\SNES palette importer+exporter\obj\Debug\SNES palette importer+exporter.csprojAssemblyReference.cache
